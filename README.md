@@ -1,1 +1,1 @@
-# DigitalizacionTrabajoGurpo
+modificado el archivo README
