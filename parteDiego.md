@@ -1,6 +1,8 @@
 # Digitalización de empresa Construcciones y Reformas Lara.
 ## 1 Introducción a la Digitalización.
+''' bash
 La digitalización consiste en convertir procesos y datos analógicos en formatos digitales. En el contexto empresarial, esto incluye actividades como automatizar tareas, digitalizar documentos y usar tecnología para hacer más eficientes los flujos de trabajo. Es un paso inicial hacia el uso de tecnología para optimizar operaciones.
+'''
 
 Por otro lado, la transformación digital abarca un cambio más profundo, implicando la integración completa de tecnologías digitales en todos los aspectos de una organización. Va más allá de simplemente digitalizar procesos, rediseñando el modelo de negocio, la cultura organizativa y las estrategias para aprovechar al máximo las oportunidades del entorno digital.
 
