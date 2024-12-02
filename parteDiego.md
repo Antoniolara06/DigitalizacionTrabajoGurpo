@@ -42,7 +42,7 @@ entre departamentos, impulsando la competitividad y adaptabilidad de la empresa
 ```bash
 IT: Gestiona datos, software y procesos empresariales (CRM, ERP).
 OT: Controla procesos físicos y maquinaria (IoT, sensores, PLC).
-Prioridades: IT se enfoca en la seguridad de datos; OT en la continuidad operativa.
+Prioridades: IT se enfoca en la seguridad de datos OT en la continuidad operativa.
 ```
 
 ```bash
