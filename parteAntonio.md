@@ -6,7 +6,7 @@ En una empresa como Construcciones y Reformas Lara, el entorno IT incluye los si
 2. Desarrollo de Software: Diseña y adapta herramientas tecnológicas para la gestión de proyectos, presupuestos y operaciones.
 3. Ciberseguridad: Protege sistemas y datos frente a amenazas y asegura el cumplimiento de normativas.
 4. Gestión de Datos y Análisis: Centraliza datos y genera informes para optimizar tiempos, costos y recursos.
-5. Innovación Tecnológica: Implementa tecnologías avanzadas como BIM, IoT o realidad aumentada para mejorar eficiencia y competitividad.
+5. Innovación Tecnológica: Implementa tecnologías avanzadas como la realidad aumentada para mejorar eficiencia y competitividad.
 6. Gestión de Proyectos IT: Supervisa la adopción de nuevas herramientas tecnológicas alineadas con los objetivos de la empresa.
 7. Comunicación y Sistemas Colaborativos: Facilita la comunicación interna y externa y la gestión de proyectos con plataformas digitales.
 Estos departamentos trabajan en conjunto para garantizar que la tecnología impulse la eficiencia, seguridad y productividad de la empresa.
