@@ -15,11 +15,11 @@ Estos departamentos trabajan en conjunto para garantizar que la tecnología impu
 
 Para Construcciones y Reformas Lara, las tecnologías clave para la digitalización incluyen:
 1. IoT: Monitoreo en tiempo real de maquinaria, materiales y condiciones de obra.
-2. Automatización: Gestión de cronogramas, control de calidad y uso de drones/robots en tareas repetitivas.
-3. Gemelos Digitales: Réplicas virtuales para planificar, simular y monitorear proyectos.
-4. ERP: Gestión centralizada de finanzas, logística, recursos humanos y control de costos.
-5. BIM: Modelado 3D para diseño, planificación colaborativa y mantenimiento.
-6. Inteligencia Artificial: Predicción de riesgos, optimización de recursos y atención al cliente automatizada.
-7. Realidad Aumentada/Virtual: Visualización de proyectos y capacitación inmersiva.
-8. Big Data: Análisis de datos para mejorar la eficiencia y tomar decisiones estratégicas.
+2. Automatización: Gestión de cronogramas, control de calidad y uso de maquinaria automatizada en tareas repetitivas.
+4. Gemelos Digitales: Réplicas virtuales para planificar, simular y monitorear proyectos.
+5. ERP: Gestión centralizada de finanzas, logística, recursos humanos y control de costos.
+6. BIM: Modelado 3D para diseño, planificación colaborativa y mantenimiento.
+7. Inteligencia Artificial: Predicción de riesgos, optimización de recursos y atención al cliente automatizada.
+8. Realidad Aumentada/Virtual: Visualización de proyectos y capacitación inmersiva.
+9. Big Data: Análisis de datos para mejorar la eficiencia y tomar decisiones estratégicas.
 Estas tecnologías impulsan la eficiencia, optimizan recursos y mejoran la experiencia del cliente. Se recomienda comenzar con IoT, BIM y ERP.
