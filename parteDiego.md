@@ -1,16 +1,15 @@
 # Digitalización de empresa Construcciones y Reformas Lara.
 ## 1 Introducción a la Digitalización.
 ```bash
-La digitalización consiste en convertir procesos y datos analógicos en formatos digitales. En el contexto empresarial, esto incluye actividades como automatizar tareas, digitalizar documentos y usar tecnología para hacer más eficientes los flujos de trabajo. Es un paso inicial hacia el uso de tecnología para optimizar operaciones.
+La digitalización es el proceso de convertir datos y procesos analógicos en digitales mediante tecnologías. Por ejemplo, esto implica usar herramientas como BIM para planos o sistemas CRM para gestionar clientes.
 ```
 ```bash
-Por otro lado, la transformación digital abarca un cambio más profundo, implicando la integración completa de tecnologías digitales en todos los aspectos de una organización. Va más allá de simplemente digitalizar procesos, rediseñando el modelo de negocio, la cultura organizativa y las estrategias para aprovechar al máximo las oportunidades del entorno digital.
-```
-
-```bash
-Diferencias clave:
-Digitalización: Mejora procesos existentes al hacerlos digitales. Ejemplo: almacenar planos en formato digital.
-Transformación digital: Reestructura toda la empresa mediante tecnología. Ejemplo: adoptar plataformas BIM para diseñar, planificar y ejecutar proyectos de construcción.
+1. Impacto en Empresas Industriales
+    - Eficiencia: Mejora tiempos y reduce costos con sistemas como ERP.
+    - Calidad: Uso de BIM y drones aumenta precisión y reduce errores.
+    - Decisiones basadas en datos: Herramientas analíticas previenen retrasos y sobrecostes.
+    - Relación con clientes: CRM y plataformas digitales mejoran la comunicación.
+    - Sostenibilidad: Automatización y monitoreo reducen el desperdicio.
 ```
 
 ## 2 Impacto Organizativo.
