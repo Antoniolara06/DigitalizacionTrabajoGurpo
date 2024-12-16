@@ -3,7 +3,7 @@
 ### 1 Introducción a la Digitalización: Construcciones y Reformas Lara
 ### 2 Impacto Organizativo: Construcciones y Reformas Lara
 ### 3 IT vs. OT: Construcciones y Reformas Lara
-### 4 Digitalizacion de empresa Construcciones y Reforamas Lara
+### 4 Departamentos IT en las Empresas Industriales
 ### 5 Selección de Tecnologías para la Digitalización
 ### 6 Conexion entre IT y OT
 ### 7 Ventajas de una digitalización integral
