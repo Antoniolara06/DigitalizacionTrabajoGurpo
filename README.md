@@ -60,9 +60,8 @@ Mantenimiento predictivo: IoT detecta fallos antes de tiempo.
 Decisiones basadas en datos: Informes detallados combinan datos de ambos entornos.
 ```
 
-## 4 Digitalizacion de empresa Construcciones y Reforamas Lara
+## 4 Departamentos IT en las Empresas Industriales
 ```bash
-Departamentos IT en las Empresas Industriales
 
 En una empresa como Construcciones y Reformas Lara, el entorno IT incluye los siguientes departamentos clave:
 
