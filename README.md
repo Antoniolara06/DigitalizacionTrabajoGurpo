@@ -52,7 +52,7 @@ Decisiones basadas en datos: Informes detallados combinan datos de ambos entorno
 ```
 
 # 4 Digitalizacion de empresa Construcciones y Reforamas Lara
-
+```bash
 ## Departamentos IT en las Empresas Industriales
 En una empresa como Construcciones y Reformas Lara, el entorno IT incluye los siguientes departamentos clave:
 1. Infraestructura y Soporte Técnico: Gestiona y mantiene equipos, redes y sistemas; resuelve problemas técnicos y asegura la continuidad operativa.
@@ -63,9 +63,9 @@ En una empresa como Construcciones y Reformas Lara, el entorno IT incluye los si
 6. Gestión de Proyectos IT: Supervisa la adopción de nuevas herramientas tecnológicas alineadas con los objetivos de la empresa.
 7. Comunicación y Sistemas Colaborativos: Facilita la comunicación interna y externa y la gestión de proyectos con plataformas digitales.
 Estos departamentos trabajan en conjunto para garantizar que la tecnología impulse la eficiencia, seguridad y productividad de la empresa.
-
+```
 ##  5 Selección de Tecnologías para la Digitalización
-
+```bash
 Para Construcciones y Reformas Lara, las tecnologías clave para la digitalización incluyen:
 1. IoT: Monitoreo en tiempo real de maquinaria, materiales y condiciones de obra.
 2. Automatización: Gestión de cronogramas, control de calidad y uso de maquinaria automatizada en tareas repetitivas.
@@ -75,7 +75,7 @@ Para Construcciones y Reformas Lara, las tecnologías clave para la digitalizaci
 6. Realidad Aumentada/Virtual: Visualización de proyectos y capacitación inmersiva.
 7. Big Data: Análisis de datos para mejorar la eficiencia y tomar decisiones estratégicas.
 Estas tecnologías impulsan la eficiencia, optimizan recursos y mejoran la experiencia del cliente. Se recomienda comenzar con IoT, BIM y ERP.
-
+```
 Conectar los entornos IT (Tecnologías de la Información) y OT (Tecnologías Operativas) en una empresa es fundamental para optimizar procesos, mejorar la productividad y fomentar la innovación.
 
 Esta integración permite recopilar datos de sistemas operativos (como sensores o máquinas) y combinarlos con capacidades analíticas y de gestión de IT, proporcionando una visión más completa y estratégica del negocio. Además, facilita la automatización y la toma de decisiones basada en datos en tiempo real, crucial en la era de la Industria 4.0.
