@@ -79,6 +79,8 @@ Para Construcciones y Reformas Lara, las tecnologías clave para la digitalizaci
 7. Big Data: Análisis de datos para mejorar la eficiencia y tomar decisiones estratégicas.
 Estas tecnologías impulsan la eficiencia, optimizan recursos y mejoran la experiencia del cliente.
 ```
+## 6 Conexion entre IT y OT
+
 Conectar los entornos IT (Tecnologías de la Información) y OT (Tecnologías Operativas) en una empresa es fundamental para optimizar procesos, mejorar la productividad y fomentar la innovación.
 
 Esta integración permite recopilar datos de sistemas operativos (como sensores o máquinas) y combinarlos con capacidades analíticas y de gestión de IT, proporcionando una visión más completa y estratégica del negocio. Además, facilita la automatización y la toma de decisiones basada en datos en tiempo real, crucial en la era de la Industria 4.0.
@@ -90,6 +92,8 @@ Entre los principales beneficios destacan:
 - Ciberseguridad Mejorada: Un enfoque integral fortalece la protección contra ciberataques, especialmente en sectores críticos como energía y manufactura.
 - Innovación y Competitividad: La integración impulsa la digitalización, clave para competir en un entorno global y adaptarse rápidamente a nuevas demandas.
 ```
+## 7 Ventajas de una digitalización integral
+
 Aunque su implementación presenta retos, como la interoperabilidad de sistemas antiguos y la ciberseguridad, estos pueden abordarse con soluciones tecnológicas específicas y colaboración entre los equipos involucrados.
 
 Fuentes:Minsait, telefónica tech, tecnología para la industria e intech.
