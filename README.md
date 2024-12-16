@@ -69,6 +69,7 @@ Estos departamentos trabajan en conjunto para garantizar que la tecnología impu
 ##  5 Selección de Tecnologías para la Digitalización
 ```bash
 Para Construcciones y Reformas Lara, las tecnologías clave para la digitalización incluyen:
+
 1. IoT: Monitoreo en tiempo real de maquinaria, materiales y condiciones de obra.
 2. Automatización: Gestión de cronogramas, control de calidad y uso de maquinaria automatizada en tareas repetitivas.
 3. ERP: Gestión centralizada de finanzas, logística, recursos humanos y control de costos.
@@ -76,7 +77,7 @@ Para Construcciones y Reformas Lara, las tecnologías clave para la digitalizaci
 5. Inteligencia Artificial: Predicción de riesgos, optimización de recursos y atención al cliente automatizada.
 6. Realidad Aumentada/Virtual: Visualización de proyectos y capacitación inmersiva.
 7. Big Data: Análisis de datos para mejorar la eficiencia y tomar decisiones estratégicas.
-Estas tecnologías impulsan la eficiencia, optimizan recursos y mejoran la experiencia del cliente. Se recomienda comenzar con IoT, BIM y ERP.
+Estas tecnologías impulsan la eficiencia, optimizan recursos y mejoran la experiencia del cliente.
 ```
 Conectar los entornos IT (Tecnologías de la Información) y OT (Tecnologías Operativas) en una empresa es fundamental para optimizar procesos, mejorar la productividad y fomentar la innovación.
 
