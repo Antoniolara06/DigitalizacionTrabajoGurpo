@@ -54,7 +54,9 @@ Decisiones basadas en datos: Informes detallados combinan datos de ambos entorno
 ## 4 Digitalizacion de empresa Construcciones y Reforamas Lara
 ```bash
 Departamentos IT en las Empresas Industriales
+
 En una empresa como Construcciones y Reformas Lara, el entorno IT incluye los siguientes departamentos clave:
+
 1. Infraestructura y Soporte Técnico: Gestiona y mantiene equipos, redes y sistemas; resuelve problemas técnicos y asegura la continuidad operativa.
 2. Desarrollo de Software: Diseña y adapta herramientas tecnológicas para la gestión de proyectos, presupuestos y operaciones.
 3. Ciberseguridad: Protege sistemas y datos frente a amenazas y asegura el cumplimiento de normativas.
