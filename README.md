@@ -1,4 +1,13 @@
 # Digitalización de empresa Construcciones y Reformas Lara.
+## Indice
+### 1 Introducción a la Digitalización: Construcciones y Reformas Lara
+### 2 Impacto Organizativo: Construcciones y Reformas Lara
+### 3 IT vs. OT: Construcciones y Reformas Lara
+### 4 Digitalizacion de empresa Construcciones y Reforamas Lara
+### 5 Selección de Tecnologías para la Digitalización
+### 6 Conexion entre IT y OT
+### 7 Ventajas de una digitalización integral
+
 ## 1 Introducción a la Digitalización: Construcciones y Reformas Lara
 ```bash
 La digitalización es el proceso de convertir datos y procesos
