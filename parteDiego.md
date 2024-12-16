@@ -3,8 +3,6 @@
 ```bash
 La digitalización es el proceso de convertir datos y procesos
 analógicos en digitales mediante tecnologías.
-Por ejemplo, esto implica usar herramientas como BIM
-para planos o sistemas CRM para gestionar clientes.
 ```
 ```bash
 1. Impacto en Empresas Industriales
