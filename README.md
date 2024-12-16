@@ -9,7 +9,7 @@ analógicos en digitales mediante tecnologías.
     - Eficiencia: Mejora tiempos y reduce costos con sistemas como ERP.
     - Calidad: Uso de BIM y drones aumenta precisión y reduce errores.
     - Decisiones basadas en datos: Herramientas analíticas previenen retrasos y sobrecostes.
-    - Relación con clientes: CRM y plataformas digitales mejoran la comunicación.
+    - Relación con clientes: Plataformas digitales que mejoran la comunicación.
     - Sostenibilidad: Automatización y monitoreo reducen el desperdicio.
 ```
 
