@@ -51,7 +51,7 @@ Mantenimiento predictivo: IoT detecta fallos antes de tiempo.
 Decisiones basadas en datos: Informes detallados combinan datos de ambos entornos.
 ```
 
-# Digitalizacion de empresa Construcciones y Reforamas Lara
+# 4 Digitalizacion de empresa Construcciones y Reforamas Lara
 
 ## Departamentos IT en las Empresas Industriales
 En una empresa como Construcciones y Reformas Lara, el entorno IT incluye los siguientes departamentos clave:
@@ -64,7 +64,7 @@ En una empresa como Construcciones y Reformas Lara, el entorno IT incluye los si
 7. Comunicación y Sistemas Colaborativos: Facilita la comunicación interna y externa y la gestión de proyectos con plataformas digitales.
 Estos departamentos trabajan en conjunto para garantizar que la tecnología impulse la eficiencia, seguridad y productividad de la empresa.
 
-##  Selección de Tecnologías para la Digitalización
+##  5 Selección de Tecnologías para la Digitalización
 
 Para Construcciones y Reformas Lara, las tecnologías clave para la digitalización incluyen:
 1. IoT: Monitoreo en tiempo real de maquinaria, materiales y condiciones de obra.
