@@ -96,8 +96,6 @@ Entre los principales beneficios destacan:
 
 Aunque su implementación presenta retos, como la interoperabilidad de sistemas antiguos y la ciberseguridad, estos pueden abordarse con soluciones tecnológicas específicas y colaboración entre los equipos involucrados.
 
-Fuentes:Minsait, telefónica tech, tecnología para la industria e intech.
-
 La digitalización integral en una empresa, que abarca desde la planta de producción hasta el área de negocios, aporta numerosas ventajas que mejoran significativamente la eficiencia operativa, la toma de decisiones y la seguridad. Aquí se destacan algunos beneficios clave:
 
 Eficiencia operativa mejorada: La automatización de procesos y la integración digital reducen errores, optimizan tiempos y eliminan duplicidades. Esto se traduce en menores costos operativos y una mayor rentabilidad para la empresa.
